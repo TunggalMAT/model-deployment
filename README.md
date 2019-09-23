@@ -1,6 +1,6 @@
 # model-deployment
 ***
-# Intruksi
+# Instruksi
 >1. Download file `request.py`
 >2. Pindahkan File `request.py` ke direktori local disk D
 >3. Buka Anaconda Prompt
