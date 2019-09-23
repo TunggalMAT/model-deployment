@@ -12,5 +12,5 @@
 >9. Inputkan nilai pada semua fitur
 >10. Tunggu selama beberapa detik, dan hasilpun akan muncul
 ***
-### Program ini dapat digunakan untuk memprediksi 1 user maupun banyak user. Pada case ini maksimal user dibatasi dampai 10 user saja.
+### Program ini dapat digunakan untuk memprediksi 1 user maupun banyak user ***sekaligus****. Pada case ini maksimal user dibatasi dampai 10 user saja.
 # THANKS
