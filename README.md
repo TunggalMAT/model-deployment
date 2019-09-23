@@ -12,7 +12,7 @@
 >9. Inputkan nilai pada semua fitur
 >10. Tunggu selama beberapa detik, dan hasilpun akan muncul
 ***
-### Program ini dapat digunakan untuk memprediksi 1 user maupun banyak user ***sekaligus***. Pada case ini maksimal user dibatasi dampai 10 user saja.
+### Program ini dapat digunakan untuk memprediksi 1 user maupun banyak user ***sekaligus***.
 # Overview
 ***
 Repository ini terdiri dari 2 Source Code dan 1 model. `request.py` adalah **user site**. pada folder`server_site` terdapat 2 file yakni `flask_app.py` dan `clf.pkl` yang merupakan **server site** yang ada pada *http://tunggalmat.pythonanywhere.com/api*.
