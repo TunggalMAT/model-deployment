@@ -8,7 +8,7 @@
 5. Ketik `python request.py`
 6. Masukkan Jumlah User yang akan di prediksi
 7. Inputkan Fitur dari setiap user sesuai range angka yang ada pada keterangan di setiap fitur
-8. Klik Enter setiap selesai menginpukan nilai sebuah fitur
+8. Klik Enter setiap selesai menginputkan nilai sebuah fitur
 9. Inputkan nilai pada semua fitur
 10. Tunggu selama beberapa detik, dan hasilpun akan muncul
 ***
